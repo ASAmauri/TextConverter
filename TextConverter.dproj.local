@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/14 21:25:45.000.217,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/20 19:08:32.000.967,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/19 21:11:37.000.865,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/24 21:09:33.000.169,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/15 15:30:38.000.142,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 15:53:54.000.229,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 15:57:12.000.233,D:\DB1\TextConverter\View\DB1.TextConverter.View.Main.pas=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 15:57:12.000.233,D:\DB1\TextConverter\View\DB1.TextConverter.View.Main.dfm=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/06/22 15:57:58.000.478,D:\DB1\TextConverter\TextConverter.dproj=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/06/22 15:58:08.000.321,D:\DB1\TextConverter\View\TextConverter.View.Main.dfm=D:\DB1\TextConverter\View\DB1.TextConverter.View.Main.dfm</Transaction>
+    <Transaction>2019/06/22 15:58:08.000.321,D:\DB1\TextConverter\View\TextConverter.View.Main.pas=D:\DB1\TextConverter\View\DB1.TextConverter.View.Main.pas</Transaction>
+    <Transaction>2019/06/22 16:47:58.000.170,=D:\DB1\TextConverter\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 16:49:07.000.668,D:\DB1\TextConverter\Controller\TextConverter.Controller.Interfaces.pas=D:\DB1\TextConverter\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 16:52:10.000.515,=D:\DB1\TextConverter\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 16:53:39.000.562,D:\DB1\TextConverter\Controller\TextConverter.Controller.ConverterTexto.pas=D:\DB1\TextConverter\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 17:48:21.000.391,=D:\DB1\TextConverter\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 17:49:19.000.669,D:\DB1\TextConverter\Controller\TextConverter.Controller.ConverteInvertido.pas=D:\DB1\TextConverter\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 17:51:39.000.740,D:\DB1\TextConverter\Controller\TextConverter.Controller.ConverteTexto.pas=D:\DB1\TextConverter\Controller\TextConverter.Controller.ConverterTexto.pas</Transaction>
+    <Transaction>2019/06/22 19:01:29.000.170,=D:\DB1\TextConverter\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 19:01:48.000.079,=D:\DB1\TextConverter\Unit2.pas</Transaction>
+    <Transaction>2019/06/22 19:03:42.000.420,D:\DB1\TextConverter\Controller\TextConverter.Controller.ConvertePrimeiraMaiuscula.pas=D:\DB1\TextConverter\Unit2.pas</Transaction>
+    <Transaction>2019/06/22 19:04:11.000.287,D:\DB1\TextConverter\Controller\TextConverter.Controller.ConverteOrdenado.pas=D:\DB1\TextConverter\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 23:02:49.000.436,=D:\DB1\TextConverter\Unit1.pas</Transaction>
+    <Transaction>2019/06/22 23:03:39.000.353,D:\DB1\TextConverter\Controller\TextConverter.Controller.Factory.pas=D:\DB1\TextConverter\Unit1.pas</Transaction>
+    <Transaction>2019/06/23 02:12:42.000.129,D:\DB1\TextConverter\Controller\TextConverter.Controller.ConverteInvertido.pas=D:\DB1\TextConverter\Controller\TextConverter.Model.ConverteInvertido.pas</Transaction>
+    <Transaction>2019/06/23 02:12:50.000.179,D:\DB1\TextConverter\Controller\TextConverter.Controller.ConverteOrdenado.pas=D:\DB1\TextConverter\Controller\TextConverter.Model.ConverteOrdenado.pas</Transaction>
+    <Transaction>2019/06/23 02:12:58.000.042,D:\DB1\TextConverter\Controller\TextConverter.Controller.ConvertePrimeiraMaiuscula.pas=D:\DB1\TextConverter\Controller\TextConverter.Model.ConvertePrimeiraMaiuscula.pas</Transaction>
+    <Transaction>2019/06/23 02:13:13.000.185,D:\DB1\TextConverter\Controller\TextConverter.Controller.ConverteTexto.pas=D:\DB1\TextConverter\Controller\TextConverter.Model.ConverteTexto.pas</Transaction>
+    <Transaction>2019/06/23 02:13:25.000.662,D:\DB1\TextConverter\Controller\TextConverter.Controller.Factory.pas=D:\DB1\TextConverter\Controller\TextConverter.Model.Factory.pas</Transaction>
+    <Transaction>2019/06/23 02:13:33.000.602,D:\DB1\TextConverter\Controller\TextConverter.Controller.Interfaces.pas=D:\DB1\TextConverter\Controller\TextConverter.Model.Interfaces.pas</Transaction>
+  </Transactions>
+</BorlandProject>

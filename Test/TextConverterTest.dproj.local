@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/14 21:25:45.000.217,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/20 19:08:32.000.967,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/19 21:11:37.000.865,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/24 21:09:33.000.169,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/15 15:30:38.000.142,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/23 03:24:38.278,=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/23 03:25:56.258,D:\DB1\TextConverter\Test\TextConverter.Test.Main.pas=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/23 03:26:26.781,D:\DB1\TextConverter\Test\TextConverterTest.dproj=C:\Users\asa\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/06/23 03:31:48.620,=D:\DB1\TextConverter\Model\TextConverter.Model.ConverteTexto.pas</Transaction>
+    <Transaction>2019/06/23 03:32:56.452,=D:\DB1\TextConverter\Model\TextConverter.Model.Interfaces.pas</Transaction>
+    <Transaction>2019/06/23 05:17:50.991,=D:\DB1\TextConverter\Model\TextConverter.Model.ConverteInvertido.pas</Transaction>
+    <Transaction>2019/06/23 05:17:58.487,=D:\DB1\TextConverter\Model\TextConverter.Model.ConvertePrimeiraMaiuscula.pas</Transaction>
+    <Transaction>2019/06/23 05:18:04.181,=D:\DB1\TextConverter\Model\TextConverter.Model.ConverteOrdenado.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\TextConverter"/>
+    <File Path="..\Model"/>
+    <File Path="..\Model\TextConverter.Model.ConverteTexto.pas"/>
+    <File Path="..\Model\TextConverter.Model.Interfaces.pas"/>
+    <File Path="..\Model\TextConverter.Model.ConverteInvertido.pas"/>
+    <File Path="..\Model\TextConverter.Model.ConvertePrimeiraMaiuscula.pas"/>
+    <File Path="..\Model\TextConverter.Model.ConverteOrdenado.pas"/>
+    <File Path="TextConverter.Test.Main.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

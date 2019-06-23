@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{BDCDFC68-475C-4808-B429-4B813C1A4FE5}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="TextConverter.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Test\TextConverterTest.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="TextConverter">
+        <MSBuild Projects="TextConverter.dproj"/>
+    </Target>
+    <Target Name="TextConverter:Clean">
+        <MSBuild Projects="TextConverter.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TextConverter:Make">
+        <MSBuild Projects="TextConverter.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="TextConverterTest">
+        <MSBuild Projects="Test\TextConverterTest.dproj"/>
+    </Target>
+    <Target Name="TextConverterTest:Clean">
+        <MSBuild Projects="Test\TextConverterTest.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TextConverterTest:Make">
+        <MSBuild Projects="Test\TextConverterTest.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="TextConverter;TextConverterTest"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="TextConverter:Clean;TextConverterTest:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="TextConverter:Make;TextConverterTest:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
